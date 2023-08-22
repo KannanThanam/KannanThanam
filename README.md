@@ -2,7 +2,7 @@
 
 ### <p align="center">Computer Science Engineer</p>
 
-<p align="center">An Engaging and Passionate college student pursuing a Professional degree to obtain a job related to Software development where I can utilize and improve my skills and Technical knowledge which helps me in both individuals and organization's Growth.</p>
+<p align="center">An enthusiastic college student pursuing a professional degree to secure a job in software development and UI/UX. I aim to leverage and enhance my skills and technical knowledge for personal growth and to contribute to the organization's advancement.</p>
 
 <p align="center">I'm currently persuing B.E,.CSE @ Bannari Amman Institute of Technology</p>
 
