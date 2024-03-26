@@ -6,8 +6,6 @@
 
 <p align="center">I'm currently persuing B.E,.CSE @ Bannari Amman Institute of Technology</p>
 
-<p align="center"><a href="https://kannanthanam.github.io/Portfolio/">👨‍💻kannanthanam.github.io/Portfolio/</a></p>
-<p align="center"><a href="https://kannanthanam.github.io/UI-UX-Portfolio/">👨‍💻https://kannanthanam.github.io/UI-UX-Portfolio/</a></p>
 
 ### <p align="center">Contact Me</p>
 <p align="center">:telephone_receiver: 9597656363</p>
