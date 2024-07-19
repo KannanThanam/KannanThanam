@@ -4,8 +4,6 @@
 
 <p align="center">An enthusiastic college student pursuing a professional degree to secure a job in software development and UI/UX. I aim to leverage and enhance my skills and technical knowledge for personal growth and to contribute to the organization's advancement.</p>
 
-<p align="center">I'm currently persuing B.E,.CSE @ Bannari Amman Institute of Technology</p>
-
 
 ### <p align="center">Contact Me</p>
 <p align="center">:telephone_receiver: 9597656363</p>
