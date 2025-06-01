@@ -1,4 +1,4 @@
-<h1 align="center">KANNAN THANASEKARAN :)</h1>
+<h2 align="center">KANNAN THANASEKARAN :)</h2>
 
 ### <p align="center">Associate System Engineer</p>
 
