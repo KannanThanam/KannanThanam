@@ -1,8 +1,8 @@
 <h1 align="center">KANNAN THANASEKARAN :)</h1>
 
-### <p align="center">Computer Science Engineer</p>
+### <p align="center">Associate System Engineer</p>
 
-<p align="center">An enthusiastic college student pursuing a professional degree to secure a job in software development and UI/UX. I aim to leverage and enhance my skills and technical knowledge for personal growth and to contribute to the organization's advancement.</p>
+<p align="center">STEP Developer at ISNIA Technologies</p>
 
 
 ### <p align="center">Contact Me</p>
